@@ -6,3 +6,48 @@ body {
 img {
     width: 100%;
 }
+
+#logo {
+    width: 25px;
+}
+
+section.container {
+    border-radius: 20px;
+    background: #E9EAEC;
+    margin-top: 20px;
+
+}
+
+#parent {
+    display: flex;
+
+}
+#left {
+    width: 50%;
+    margin-right: 10px;
+    padding: 30px;
+
+}
+#right {
+    width: 50%;
+    margin-left:  10px;
+    overflow:hidden;
+}
+
+#big-boy {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.code-container {
+    width: 100%;
+    background: #424242;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 10px;
+}
+
+#upper-container {
+    padding: 20px 20px 20px 10px;
+}
